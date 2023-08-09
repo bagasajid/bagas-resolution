@@ -7,3 +7,4 @@ BAGAS RESOLUSI
 - Mengerti Cloud Computing
 - Mengerti API
 - Menjadi Odoo Developer
+- Success
