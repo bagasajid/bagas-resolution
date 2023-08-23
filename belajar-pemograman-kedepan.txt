@@ -4,4 +4,3 @@ Rencana Belajar
 - Mengerti java scricpt
 - Mengerti boostrap
 - Mengerti react native and react js
-- Mengerti flutter
