@@ -2,8 +2,7 @@ BAGAS RESOLUSI
 - Konsisten latihan bahasa pemograman setiap hari
 - Menguasai ilmu data science
 - Menjadi Backend Developer
-- Mengerti RPA
-- Mengerti DevOps
+- Mengerti RPA/ERP
 - Mengerti Cloud Computing
 - Mengerti API
 - Menjadi Odoo Developer
